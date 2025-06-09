@@ -2,7 +2,7 @@
 <h3 align="center">A dreamer who codes, designs, and never stops learning ☁️💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&width=460&lines=Web+Dev+in+the+Making...;Turning+coffee+into+code.;Forever+curious+%2B+always+creating.;Let’s+build+something+beautiful+together.🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Passionate+Learner;Web+Developer+in+progress;Final+Year+Diploma+Student;Always+building+learning!" alt="Typing SVG" />
 </p>
 
 
