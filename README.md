@@ -11,6 +11,19 @@
 
 <br/>
 
+<h1 align="center">Hey 👋 I'm Saniya Shaikh</h1>
+<h3 align="center">👩🏻‍💻 Web Developer | Final Year Computer Engineering Student | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=8D7BE8&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Final+Year+Diploma+Student+%7C+Web+Developer;Interned+at+ProAzure+%7C+Always+Learning;Frontend+%2B+Backend+with+a+Design+Twist" alt="Typing SVG" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</div>
+
 
 
 ---
