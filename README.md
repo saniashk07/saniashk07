@@ -1,23 +1,9 @@
-<h1 align="center">Hi 👋 I'm Saniya Shaikh</h1>
-<br/><br/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=8D7BE8&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Final+Year+Diploma+Student+%7C+Web+Developer;Interned+at+ProAzure+%7C+Always+Learning;Focused+on+Frontend+%2B+Backend+Development" alt="Typing SVG" />
-</p>
-<br/><br/>
-<div align="center">
-  <img src="https://github-user-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=city_lights" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=city_lights" width="48%" />
-</div>
-
-<br/>
-
-<h1 align="center">Hey 👋 I'm Saniya Shaikh</h1>
-<h3 align="center">👩🏻‍💻 Web Developer | Final Year Computer Engineering Student | Tech Enthusiast</h3>
+<h1 align="center">✨ Hey, I'm Saniya! ✨</h1>
+<h3 align="center">A dreamer who codes, designs, and never stops learning ☁️💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=8D7BE8&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Final+Year+Diploma+Student+%7C+Web+Developer;Interned+at+ProAzure+%7C+Always+Learning;Frontend+%2B+Backend+with+a+Design+Twist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&width=460&lines=Web+Dev+in+the+Making...;Turning+coffee+into+code.;Forever+curious+%2B+always+creating.;Let’s+build+something+beautiful+together.🌸" alt="Typing SVG" />
 </p>
-
 ---
 
 <div align="center">
