@@ -4,12 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&width=460&lines=Web+Dev+in+the+Making...;Turning+coffee+into+code.;Forever+curious+%2B+always+creating.;Let’s+build+something+beautiful+together.🌸" alt="Typing SVG" />
 </p>
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</div>
-
 
 
 ---
