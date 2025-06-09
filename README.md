@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Saniya Shaikh</h1>
 <br/><br/>
-<h3 align="center">Final Year Computer Engineering Student | Web Developer in Progress | Always Building 🔧</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=8D7BE8&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Final+Year+Diploma+Student+%7C+Web+Developer;Interned+at+ProAzure+%7C+Always+Learning;Focused+on+Frontend+%2B+Backend+Development" alt="Typing SVG" />
+</p>
 <br/><br/>
 <div align="center">
   <img src="https://github-user-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=city_lights" width="48%" />
@@ -9,9 +11,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=8D7BE8&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Final+Year+Diploma+Student+%7C+Web+Developer;Interned+at+ProAzure+%7C+Always+Learning;Focused+on+Frontend+%2B+Backend+Development" alt="Typing SVG" />
-</p>
+
 
 ---
 
